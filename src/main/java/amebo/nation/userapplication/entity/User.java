@@ -8,7 +8,6 @@ import lombok.RequiredArgsConstructor;
 import javax.annotation.processing.Generated;
 
 @Data
-//@AllArgsConstructor
 @RequiredArgsConstructor
 @Entity
 @Table(name = "users_table")
